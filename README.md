@@ -15,6 +15,8 @@ This project in up and running state consists of three blockchain nodes running 
 * 127.0.0.1:8081
 * 127.0.0.1:8082
 
+In the same time it is possible to run one node just using `python bcn_api.py`
+
 To be faster in manipulating with systemctl for these nodes and nginx: *bcn.sh* and its wrapper *bcn* (which is to be added to *$PATH*).
 
 Feel free to ask any question.
